@@ -1,12 +1,4 @@
-import {
-  Box,
-  Heading,
-  Wrap,
-  Flex,
-  Text,
-  Button,
-  Container,
-} from "@chakra-ui/react";
+import { Box, Heading, Wrap, Flex, Text, Button } from "@chakra-ui/react";
 const features = [
   {
     icon: "\u{1F600}", // 😀
