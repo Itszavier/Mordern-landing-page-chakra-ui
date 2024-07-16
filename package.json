@@ -11,6 +11,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://itszavier.github.io/landing-page-example/",
+  
   "dependencies": {
     "@chakra-ui/react": "2.8.2",
     "@emotion/react": "11.11.4",
